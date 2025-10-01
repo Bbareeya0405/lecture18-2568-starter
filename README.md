@@ -1,5 +1,7 @@
 # Lecture 18 - RESTful API (Part 3)
+ป้อนข้อมูลนักศึกษา รหัส นศ.: 670610713
 
+ชื่อ-สกุล : นางสาวบารียา สะนิ
 ### Content
 
 - Current API
